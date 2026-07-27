@@ -1,0 +1,8 @@
+
+original: list[int] = [1, 2, 3, 4, 5, 6]
+result = []
+for num in original[1::2]:
+    if num % 3 == 0:
+        continue
+    result.append(num * 2)
+print(result)

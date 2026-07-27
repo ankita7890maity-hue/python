@@ -1,0 +1,3 @@
+nums = [1, 2, 3] * 3
+nums[1] = 99
+print(nums)

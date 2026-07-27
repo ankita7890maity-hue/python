@@ -1,4 +1,4 @@
-'''Question: Restaurant Bill Calculator
+Question: Restaurant Bill Calculator
 Calculate the total bill for dining at a restaurant:
 
 Base meal cost is given as input
